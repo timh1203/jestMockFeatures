@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "name": "jestMockFeatures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timh1203/jestMockFeatures.git",
+  "author": "Timothy Hoang <timh1203@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  }
+}
