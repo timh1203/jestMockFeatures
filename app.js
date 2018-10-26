@@ -1,4 +1,4 @@
-import * as math from './math.js';
+const math = require('./math.js');
 
 const doAdd = (a, b) => math.add(a, b);
 const doSubtract = (a, b) => math.subtract(a, b);
